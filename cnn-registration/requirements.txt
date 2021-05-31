@@ -1,0 +1,6 @@
+numpy==1.16.6
+opencv_python==3.4.1.15
+scipy==1.4.1
+lap==0.4.0
+tensorflow_gpu==1.14.0
+tensorflow==1.14.0
